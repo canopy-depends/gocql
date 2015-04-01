@@ -1,7 +1,7 @@
 package gocql
 
 import (
-	"code.google.com/p/snappy-go/snappy"
+	"github.com/canopy-depends/snappy-go/snappy"
 )
 
 type Compressor interface {
